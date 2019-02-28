@@ -261,6 +261,11 @@ background-color:rgba(25, 39, 60,0.45);
     padding:0px,50px;
 }
 
+/*Class for images in banners on the case study pages*/
+#imagebanner{
+  padding: 0px, 50px;
+}
+
 #BNNY_logo_banner_regular{
 
     background-color:#B9B9B9;
